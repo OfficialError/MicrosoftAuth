@@ -13,3 +13,10 @@
 *.iml
 
 /out
+/out/**
+
+/META-INF
+
+/META-INF/**
+
+*.MF
