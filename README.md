@@ -4,7 +4,7 @@ A simple solution for logging into migrated Minecraft (Microsoft) accounts
 <br>
 <br>
 ## How to implement
-To implement this microsoft login, copy the "me" package into your client and call the MSLogin.INSTANCE.start(); inside of a new thread.<br>
+To implement this microsoft login, copy the "me" package into your client and call the MSLogin.INSTANCE.start(); inside of a new thread (a new thread is not needed in the latest version).<br>
 Then, after implementing the login into your client, get the latest Login.zip file from Releases and run it through the Minecraft Launcher.
 
 <br>
