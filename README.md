@@ -10,6 +10,7 @@ Then, after implementing the login into your client, get the latest Login.zip fi
 <br>
 <br>
 <br>
+
 ## How to log into an account
 To log into an account, get the latest Login.zip file from Releases and paste its contents into a new folder inside of your .minecraft/versions directory.<br>
 After that, login to any account through the Minecraft Launcher and run the jar.<br>
